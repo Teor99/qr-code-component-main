@@ -1,6 +1,8 @@
 # Frontend Mentor - QR code component coding challenge [link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-My solution: [link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/vscode-liveserver-chromeperfectpixel-raw-html-and-css-newbie-Bk_-A_jrq)
+My challenge: [link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/vscode-liveserver-chromeperfectpixel-raw-html-and-css-newbie-Bk_-A_jrq)
+<br/>
+My solution: [link](https://www.frontendmentor.io/solutions/vscode-liveserver-chromeperfectpixel-raw-html-and-css-newbie-Bk_-A_jrq)
 <br/>
 Deployed: [link](https://teor99.github.io/qr-code-component-main/)
 
