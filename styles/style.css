@@ -38,6 +38,7 @@ body {
 }
 
 .qr > h2 {
+  color: hsl(218, 44%, 22%);
   margin-bottom: 0.8rem;
 }
 
