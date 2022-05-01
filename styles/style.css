@@ -1,11 +1,24 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 
 body {
-  margin: 50px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
   background-color: hsl(212, 45%, 89%);
+  margin: auto;
+  width: 1440px;
+  height: 800px;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Mobile: 375px */
+@media screen and (max-width: 375px) {
+  body {
+    width: 375px;
+    height: 667px;
+  }
 }
 
 .qr {
