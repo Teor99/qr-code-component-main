@@ -1,18 +1,17 @@
-# Frontend Mentor - QR code component coding challenge [link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+# Frontend Mentor - QR code component
 
-My challenge: [link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/vscode-liveserver-chromeperfectpixel-raw-html-and-css-newbie-Bk_-A_jrq)
-<br/>
-My solution: [link](https://www.frontendmentor.io/solutions/vscode-liveserver-chromeperfectpixel-raw-html-and-css-newbie-Bk_-A_jrq)
-<br/>
-Deployed: [link](https://teor99.github.io/qr-code-component-main/)
+![](./design/desktop-preview.jpg)
 
-## Desktop design - 1440 x 800
-![](./design/desktop-design.jpg)
+## Links
 
-## Mobile design - 375 x 667
-![](./design/mobile-design.jpg)
+- Frontend Mentor coding challenge [link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- My challenge: [link](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/vscode-liveserver-chromeperfectpixel-raw-html-and-css-newbie-Bk_-A_jrq)
+- My solution: [link](https://www.frontendmentor.io/solutions/vscode-liveserver-chromeperfectpixel-raw-html-and-css-newbie-Bk_-A_jrq)
+- Deployed to github.io site: [link](https://teor99.github.io/qr-code-component-main/)
 
-# Front-end Style Guide
+## Design
+- Desktop design - 1440 x 800 [link](./design/desktop-design.jpg)
+- Mobile design - 375 x 667 [link](./design/mobile-design.jpg)
 
 ## Layout
 
@@ -38,3 +37,10 @@ The designs were created to the following widths:
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
+
+## Used tools:
+- VSCode + extensions:
+  - Live Server
+  - Live Sass Compiler
+- Chrome browser + extensions:
+  - PerfectPixel
